@@ -1,4 +1,4 @@
-# A binary search algorithm for Guess the number game in Python 3
+# A binary search algorithm A.I. for Guess the number game
 Beginner's project.
 Run in the command line.
 
